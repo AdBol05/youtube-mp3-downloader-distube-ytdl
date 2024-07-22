@@ -14,13 +14,13 @@ To run this project, you need to have a local installation of FFmpeg present on 
 
 ### Installation via NPM
 
-`npm install youtube-mp3-downloader --save`
+`npm install dbol05/youtube-mp3-downloader-distube-ytdl  --save`
 
 ### Installation from Github
 
 #### Checkout the project from Github to a local folder
 
-`git clone https://github.com/ytb2mp3/youtube-mp3-downloader.git`
+`git clone https://github.com/AdBol05/youtube-mp3-downloader-distube-ytdl.git`
 
 #### Install module dependencies
 
